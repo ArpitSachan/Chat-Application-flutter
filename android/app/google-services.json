@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188388605372",
+    "firebase_url": "https://dedatom-chat.firebaseio.com",
+    "project_id": "dedatom-chat",
+    "storage_bucket": "dedatom-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188388605372:android:22ead2ebb36e54f1cabfb9",
+        "android_client_info": {
+          "package_name": "co.arpitsachan.dedatom_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188388605372-2t5lee6q149rq5977t7vfjdijoag0a6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlZVqhJFAFO-rUOzDxhKev5CQoGNOQrCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188388605372-2t5lee6q149rq5977t7vfjdijoag0a6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
